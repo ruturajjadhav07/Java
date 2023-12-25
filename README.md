@@ -6,3 +6,5 @@
 **Java is a widely-used programming language for coding web applications.**
 
 **Java is a high-level, class-based, object-oriented programming language.**
+
+**Java works on different platform and it is platform-independent language.**
