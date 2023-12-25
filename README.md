@@ -1,5 +1,5 @@
 # Java
-## Java Basic, Advanced and Core
+## About Java Basic,
 
 **Java is a programming language and computing platform first released by Sun Microsystems in 1995.**
 
