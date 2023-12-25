@@ -10,7 +10,7 @@ public class Variables_1 {
 
         String name = "Hello";  // String can be letters and numbers if it is printed in double quotes " ".
         int num = 22;           // int is used to declare number.
-        float num1 = 22;        // double is used to declare number value in points.
+        float num1 = 22;        // double is used to declare number value in points.It is used whenever you need a number with a decimal.
         double num2 = 33.20;    // same like float.
         char name1 = 'W';       //char is data type that stores single value or character.It is always surrounded by single quotes ' '.
         boolean bool = true;    // boolean is data type which have two values true and false.
