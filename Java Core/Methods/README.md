@@ -2,7 +2,7 @@
 
 ## Public Method
 *Public method can be accessed by anyone on program.*
-*To use public method we need to create public method.*
+*To use public method we need to declare method as public.*
 *To access public method we need to create object from main class(java file name) and then we can access all other methods related to it.*
 
 ## Static Method
