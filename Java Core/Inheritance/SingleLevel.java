@@ -12,6 +12,7 @@
 
 
 //Single level Inheritance
+// When one class inherits another it is called single inheritance
 
 class Game {                             // Base class
     String GameName = "Vice City";
