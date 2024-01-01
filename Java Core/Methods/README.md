@@ -7,4 +7,4 @@
 
 ## Static Method
 *It is same like Public method but you dont need to create a object to access Static method.*
-*When static method is declared it is automatically related to main class*
+*When static method is declared it is automatically related to main class.*
