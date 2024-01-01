@@ -4,6 +4,9 @@
 ### Just go step by step
 
 *1) Single Level Inheritance*
+
 *2) MutliLevel Inheritance* 
+
 *3) Hierarchical Inheritance*
+
 *4) Multiple Inheritance*
