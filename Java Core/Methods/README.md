@@ -14,6 +14,9 @@
 
 ## Method Overloading
 *Method Overloading is useful when we have multiple methods with same name in class.*
+
 *It can have same method name but different number of parameters inside it.*
+
 *if two methods name, data type and number of parameters are same it will give error.*
+
 *Therefore it should have different number of parameters for every method created with same data type and name.*
