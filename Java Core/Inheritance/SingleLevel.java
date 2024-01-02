@@ -1,4 +1,5 @@
 // Inheritance
+// It is part of OOPS
 // It has ability to inherit other class operations.
 // It is created by class keyword.
 // The first class is know as base class or parent class.
