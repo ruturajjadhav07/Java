@@ -14,7 +14,7 @@ class Overloading {                                 // Creating class
     }
 
     // In above two methods if method name, data type and number of parameters are same it will give error.
-    // Therefore it should have different parameters for every method created with same data type and name.
+    // Therefore it should have different number of parameters for every method created with same data type and name.
 
 
     // using different data type
