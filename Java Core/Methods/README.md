@@ -1,18 +1,18 @@
 # Public and Static Methods
 
-## Public Method
+## 1) Public Method
 *Public method can be accessed by anyone on program.*
 
 *To use public method we need to declare method as public.*
 
 *To access public method we need to create object from main class(java file name) and then we can access all other methods related to it.*
 
-## Static Method
+## 2) Static Method
 *It is same like Public method but you dont need to create a object to access Static method.*
 
 *When static method is declared it is automatically related to main class.*
 
-## Method Overloading
+## 3) Method Overloading
 *Method Overloading is useful when we have multiple methods with same name in class.*
 
 *It can have same method name but different number of parameters inside it.*
