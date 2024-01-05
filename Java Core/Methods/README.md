@@ -21,4 +21,9 @@
 
 *Therefore it should have different number of parameters for every method created with same data type and name.*
 
+*Method Overloading is used for compile time polymorphism*
+
 ## 4) Method Overriding
+*Method overriding is used to over ride the method which has same name that is inherited from parent class*
+
+*Method Overriding is used for runtime polymorphism.*
