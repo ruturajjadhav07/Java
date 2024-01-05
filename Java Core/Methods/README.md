@@ -20,3 +20,5 @@
 *if two methods name, data type and number of parameters are same it will give error.*
 
 *Therefore it should have different number of parameters for every method created with same data type and name.*
+
+## 4) Method Overriding
