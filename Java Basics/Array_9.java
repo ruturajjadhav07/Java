@@ -1,4 +1,3 @@
-
 // Array
 // Why we need..?
 // Array stores multiple values at one time.We can declare array size as we want.
@@ -10,17 +9,40 @@
 public class Array_9 {
 
     public static void main(String[] args) {
+
         System.out.println("===================================");
+        System.out.println("===================================");
+
+        System.out.println("Changing array values and fetching ");
+
+        int[] array2 = {1, 2, 3, 4, 5, 6};
+
+        System.out.println(array2[0]);   // Fetching single value using array index.
+
+        System.out.println("The value of index 1 in arrar2 is " + array2[1]);
+        array2 [1] = 9;
+        System.out.println("After changing value of index 1 in arrar2 is " + array2[1]);
+
+        
+        System.out.println("**********************************");
+
+
+        System.out.println("\n===================================");
         System.out.println("===================================");
         System.out.println("Assigning multiple values to array");
 
-        // Assigning values
+        // Assigning values and declaring int array.
         int[] array = {1, 2, 3, 4, 5, 6};
+        
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
         }
 
+
         System.out.println("**********************************");
+        System.out.println("\n===================================");
+        System.out.println("===================================");
+
 
         // Declaring Array size
         System.out.println("Declareing array size");
@@ -35,6 +57,8 @@ public class Array_9 {
         for (int i = 0; i < array1.length; i++) {
             System.out.println(array[i]);
         }
+        System.out.println("**********************************");
+
 
         System.out.println("\n===================================");
         System.out.println("===================================");
@@ -66,6 +90,10 @@ public class Array_9 {
 
         System.out.println("**********************************");
 
+
+        System.out.println("\n===================================");
+        System.out.println("===================================");
+
         // declaring multidimensional array
         System.out.println("Declaring multidimensional array");
         int[][] multi1 = new int[3][4];
@@ -96,6 +124,9 @@ public class Array_9 {
 
         System.out.println("**********************************");
 
+        System.out.println("\n===================================");
+        System.out.println("===================================");
+
         System.out.println("Using math function");
         int[][] multi2 = new int[3][4];
 
@@ -107,6 +138,8 @@ public class Array_9 {
             }
             System.out.println();
         }
+
+        System.out.println("**********************************");
         System.out.println("===================================");
         System.out.println("===================================");
 
