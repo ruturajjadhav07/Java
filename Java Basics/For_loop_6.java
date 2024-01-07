@@ -23,12 +23,12 @@ public class For_loop_6 {
         for (int i = 0; i <= 3; i++) {
             for (int j = 0; j <= 2; j++) {          // Nested for loop
                 System.out.println(i + " " + j);
-            } // j loop
-        } // i loop
+            } // j Loop inner loop
+        } // i loop Outer loop
 
 
         System.out.println("\n\n=====================================");
-        System.out.println("For Each Loop");
+        System.out.println("For each Loop");
         System.out.println("=====================================");
 
 
@@ -37,7 +37,7 @@ public class For_loop_6 {
         // }
 
         String[] lang = {"Java", "C++", "Python", "Javascript"};
-        for (String i : lang) {
+        for (String i : lang) {                      // For loop also called as enhanced loop.
             System.out.println(i);
         }
     }
