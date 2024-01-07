@@ -1,4 +1,4 @@
-//String is written in " ".Anything written in " " is in string format.
+//String is written in " ".Anything written in " "(double quote,single quote) is in string format.
 
 public class String_4 {
 
