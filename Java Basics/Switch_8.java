@@ -1,7 +1,9 @@
 // Switch statement is used when there are multiple if else conditions.
 // It executes the one statement from multiple statements or conditions.
 // Break is used when the statement/condition matches the required condition.
-// If it doesn't match it will go for default. 
+// If required condition doesn't match it will go for default.
+
+// default is executed when the condition dosen't meet required condition.
 
 public class Switch_8 {
     public static void main(String[] args) {
