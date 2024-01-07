@@ -23,7 +23,7 @@ public class String_4 {
         System.out.println("String Concatenation");
         System.out.println("=====================================");
 
-        // Concatenation meeans connecting
+        // Concatenation means connecting
         // It is used to connect the two Strings or Multiple
         // It is done through " + " operator
 
