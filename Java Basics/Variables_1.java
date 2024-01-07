@@ -17,7 +17,7 @@ public class Variables_1 {
 
 
         //    Printing the values
-        System.out.println(name);
+        System.out.println(name); // We are calling variable names that is name which are declared.
         System.out.println(num);
         System.out.println(num1); //It will print 22.0
         System.out.println(num2);
