@@ -1,6 +1,7 @@
 // While loop is used to execute given conditions
 // It is used to iterate on given conditions
 // if conditions meets the given condition the loop will stop.
+// If it does not meet it will go in infinite loop.
 
 public class While_loop_7 {
     public static void main(String[] args) {
