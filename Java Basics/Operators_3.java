@@ -21,6 +21,8 @@ public class Operators_3 {
 
 
 
+        // Just keep remember that the '+' operator is used to connect the Strings or any Data Type
+
         System.out.println("\n\n=====================================");
         System.out.println("Assignment Operator");
         System.out.println("=====================================");
