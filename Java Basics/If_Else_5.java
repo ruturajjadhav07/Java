@@ -14,9 +14,9 @@ public class If_Else_5 {
         int n2 = 20;
 
         if (n1 < n2) {
-            System.out.println(true);                 // 10 is less than 20 it will execute
+            System.out.println(true);                 // 10 is less than 20 it will execute.
         } else {
-            System.out.println(false);                // 20 is greater than 10 it will not execute
+            System.out.println(false);                // 20 is greater than 10 it will not execute.
         }
 
 
@@ -24,8 +24,8 @@ public class If_Else_5 {
         System.out.println("else...if");
         System.out.println("=====================================");
 
-        // It is used to check multiple statements
-        // also called ladder statement
+        // It is used to check multiple statements.
+        // also called ladder statement.
 
         int n3 = 50;
 
@@ -48,7 +48,7 @@ public class If_Else_5 {
         String name = "Rutu";
 
         if (age <= 22) {
-            if (name == "Rutu") {                         // Nested if statement
+            if (name == "Rutu") {                         // Nested if statement.
                 System.out.println("It is correct");
             } else {
                 System.out.println("Invalid");
