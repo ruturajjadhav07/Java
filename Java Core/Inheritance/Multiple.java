@@ -13,28 +13,30 @@
 // Multiple Inheretance
 // Java dosent support multiple inheritance
 
-// Remember - To perform multiple inheritance we need to use interface and then implement it
+// Remember - To perform multiple inheritance we need to use interface and then implement it.
 
 
 
-class greet1{
-    public void greet(){
+// For instance, consider trying to inherit from two different classes:
+
+class Greet1 {
+    public void greet() {
         System.out.println("Hello..");
     }
 }
 
-class greet2{
-    public void greet(){
-        System.out.println("how are");
+class Greet2 {
+    public void greet() {
+        System.out.println("How are you");
     }
 }
 
-class greet extends greet1,greet2{
-    public void greet(){
-        System.out.println("you...?");
-    }
-}
-
+// Error: Java doesn't support inheriting from multiple classes directly
+ class Greet extends Greet1, Greet2 {
+    public void greet() {
+         System.out.println("You...?");
+     }
+ }
 
 public class Multiple {
     public static void main(String[] args) {
@@ -42,3 +44,15 @@ public class Multiple {
                                               // This can be done through iterface implementation
     }
 }
+
+
+
+//Explanation :
+
+// Interfaces Greet1 and Greet2 declare the greet() method without defining its implementation.
+
+// Class Greet implements both interfaces and provides the implementation for the greet() method.
+
+
+
+
