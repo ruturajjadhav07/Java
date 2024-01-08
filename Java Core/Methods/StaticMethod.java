@@ -5,10 +5,10 @@
 
 // You can also pass parameters to methods
 
-// Static method also called as class method as it is related to class
+// Static method also called as class method as it is related to class.
 
-// We dont need to make object for calling out static methods as we make for public methods
-// if we use static then it is already related to class and main method
+// We dont need to make object for calling out static methods as we make for public methods.
+// if we use static then it is already related to class and main method.
 
 public class StaticMethod {
 
@@ -34,7 +34,8 @@ public class StaticMethod {
         // main() also called entry point in java.Without main programm will not run
         // String is string type array
 
-
+        // As we read when we declare a method static it is already related or linked to Main clas (File Name).
+        
         method();                                  // Calling static method.Object is not created.
         SumofNum(5, 7);                            // Calling Static method with parameters (i ,j)
     }
