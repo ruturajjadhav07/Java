@@ -33,11 +33,26 @@ public class encpsulation {
 
         obj.setName("Warner");         // setting name using setname method
         obj.setAge(33);                // setting age using setname method
-//        obj.Age = 19;
-//        obj.Name = "Harry";
+
+        // Attempting to directly access private variables would cause an error
+        // obj.Age = 19;    
+        // obj.Name = "Harry";
 
         System.out.println(obj.getName());   // Acceessing from setname using getname method
         System.out.println(obj.getAge());    // Accessing from setage sing getage method
     }
 }
+
+
+
+
+// Explanation:
+
+// The Bio class has private variables Age and Name, restricting direct access from outside the class.
+
+// Public getter and setter methods (getName(), setName(), getAge(), setAge()) are provided to access and modify these private variables, respectively.
+
+// In the main method of the Encapsulation class, an object obj of the Bio class is created and then its attributes are set using the setter methods.
+
+// Accessing the private variables directly (obj.Age or obj.Name) from outside the class will result in an error due to their private visibility.
 
