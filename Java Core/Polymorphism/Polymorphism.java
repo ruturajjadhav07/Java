@@ -50,3 +50,12 @@ public class Polymorphism {
 
     }
 }
+
+
+
+
+// Explanation:
+
+// class A is the superclass, while class B and class C are its subclasses.
+
+// All classes have a method show(), but subclasses (B and C) override it with their own implementations.
