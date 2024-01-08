@@ -24,7 +24,8 @@ public class methodOverriding {
     public static void main(String[] args) {
         B3 obj = new B3();
         obj.show();               // prints "In B show". It overrides the method show() present in class A
-        obj.config();             // prints "Still in A"
+        obj.config();             // Calls the config() method from class A3, prints "Still in A3"
+    }
     }
 
 }
@@ -33,3 +34,12 @@ public class methodOverriding {
 // Just do minor change in Class B for output.
 // 1) run with public void show()
 // 2) run with public void show1()
+
+
+
+
+// Explanation:
+
+// class A3 has a method called show() and config().
+
+// class B3 extends class A3 and changes the behavior of show() but keeps config() the same.
