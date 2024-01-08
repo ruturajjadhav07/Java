@@ -14,22 +14,24 @@
 //Single level Inheritance
 // When one class inherits another it is called single inheritance
 
+// Imagine you have a video game
 class Game {                             // Base class
-    String GameName = "Vice City";
+    String gameName = "Vice City";       // Attribute: name of the game
 }
 
-class GameOwner extends Game {           // Inherting the class Game in Class GameOwner
-    String Owner = "Gta";
+// Now, let's create a class for the game owner, which inherits from the Game class
+class GameOwner extends Game {           // Inheriting the Game class in GameOwner class
+    String owner = "Gta";                // Attribute: owner of the game
 }
-
 
 public class SingleLevel {
 
     public static void main(String[] args) {
-        GameOwner game = new GameOwner();      // Creating object of GameOwner to access values of class Game and GameOwner
+        GameOwner game = new GameOwner();  // Creating an object of GameOwner to access values of Game and GameOwner
         System.out.println("**********************************************************");
         System.out.println("Single level Inheritance");
-        System.out.println("Game name : " + game.GameName + ".\nOwner Name : " + game.Owner);
+        System.out.println("Game name: " + game.gameName + ".\nOwner Name: " + game.owner);
         System.out.println("**********************************************************");
     }
 }
+
