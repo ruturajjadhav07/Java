@@ -43,3 +43,13 @@ public class MultiLevel {
         sound.cat();                                // Accessing the method from the Cat class
     }
 }
+
+
+
+// Explanation:
+
+// Dog is the base class that represents a dog and has a method dog() indicating its need for food.
+
+// Cow is a class that inherits from Dog and introduces a new method cow() representing the cow's need for sleep.
+
+// Cat further inherits from Cow and introduces a new method cat() depicting a cat's action, yawning.
