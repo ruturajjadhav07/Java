@@ -12,19 +12,23 @@
 
 // Multilevel Inheritance
 // Multilevel inheretance is used when there are more than two classes
-class Dog {                                        //Base class
+
+
+// Let's imagine different animals with specific actions
+
+class Dog {                                        // Base class
    public void dog(){
-       System.out.println("Woofy need Food..");
+       System.out.println("Woofy needs Food..");
    }
 }
 
-class Cow extends Dog {                            // Inherits Dog class
+class Cow extends Dog {                            // Inherits from Dog class
    public void cow(){
-       System.out.println("Mercy need Sleep..");
+       System.out.println("Mercy needs Sleep..");
    }
 }
 
-class Cat extends Cow {                            // Inherits Cow class
+class Cat extends Cow {                            // Inherits from Cow class
    public void cat(){
        System.out.println("Meow is yawning..");
    }
@@ -32,10 +36,10 @@ class Cat extends Cow {                            // Inherits Cow class
 
 public class MultiLevel {
     public static void main(String[] args) {
-       Cat sound = new Cat();                       // Creating Cat class object it will have both Dog and Cow class
+       Cat sound = new Cat();                       // Creating a Cat object; it will have behaviors from Dog, Cow, and Cat classes
 
-        sound.dog();
-        sound.cow();
-        sound.cat();
+        sound.dog();                                // Accessing the method from the Dog class
+        sound.cow();                                // Accessing the method from the Cow class
+        sound.cat();                                // Accessing the method from the Cat class
     }
 }
