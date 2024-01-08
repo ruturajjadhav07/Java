@@ -9,6 +9,8 @@ class Bio{
     private int Age;                  // Private age instance
     private String Name;              // Private Name instance
 
+    // So as we read above the variables are private therefore we use getter setter method to access them.
+    
     public String getName(){          // using get to return name
         return Name;
     }
