@@ -10,3 +10,6 @@
 *3) Hierarchical Inheritance*
 
 *4) Multiple Inheritance*
+
+## Code Reusability: Inheritance allows us to reuse code.
+## Extensibility: New classes can be easily created based on existing classes, adding new functionalities or attributes without modifying the base class.
