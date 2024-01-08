@@ -37,3 +37,10 @@ public class MethodOverloading {
     }
 }
 
+
+
+// Explanation :
+
+//Method overloading allows using the same method name but with different parameter lists in the same class.
+
+//Java determines which method to call at compile-time based on the number and types of arguments provided.
