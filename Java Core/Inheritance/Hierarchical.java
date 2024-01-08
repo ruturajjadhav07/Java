@@ -13,20 +13,22 @@
 // Hierarchical Inheritance
 // when mutiple classes inherit one class it is called hierarchical inheritance
 
-class School{                                  // Base class
-    public void SName(){
+// Let's consider a school and its students
+
+class School {                                  // Base class
+    public void schoolName(){
         System.out.println("MITWPU Kothrud");
     }
 }
 
-class Student1 extends School{                 // Inherits School class
-    public void S1name(){
+class Student1 extends School {                  // Inherits from School class
+    public void student1Name(){
         System.out.println("Ruturaj");
     }
 }
 
-class Student2 extends School{                 // Inherits School class
-    public void S2name(){
+class Student2 extends School {                  // Inherits from School class
+    public void student2Name(){
         System.out.println("Roodraksh");
     }
 }
@@ -34,15 +36,29 @@ class Student2 extends School{                 // Inherits School class
 public class Hierarchical {
     public static void main(String[] args) {
 
-        // Creating objects of Student1 and Student2 as they bot inherit one class School
-        
+        // Creating objects of Student1 and Student2, both inheriting from the School class
         Student1 stud1 = new Student1();
         Student2 stud2 = new Student2();
         
-        stud1.S1name();                  // prints Ruturaj
-        stud1.SName();                   // prints MITWPU kothrud
-        stud2.S2name();                  // prints Roodraksh
-        stud2.SName();                   // prints MITWPU kothrud
-
+        stud1.student1Name();       // prints Ruturaj
+        stud1.schoolName();         // prints MITWPU Kothrud
+        stud2.student2Name();       // prints Roodraksh
+        stud2.schoolName();         // prints MITWPU Kothrud
     }
 }
+
+
+
+
+// Explanation
+
+// School is the base class representing a school with a method schoolName() to display the school's name.
+
+// Student1 and Student2 are classes that inherit from the School class.
+
+//Student1 has its own method student1Name() to display the name of one student, and similarly, Student2 has student2Name().
+
+
+
+
+    
