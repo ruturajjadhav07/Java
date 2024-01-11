@@ -9,7 +9,7 @@
 
 **Java works on different platform and it is platform-independent language.**
 
-*Java Basic*
+*[Java Basic](https://github.com/ruturajjadhav07/Java/tree/main/Java%20Basics)*
 
 *Core Java*
 
