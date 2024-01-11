@@ -11,6 +11,6 @@
 
 *[Java Basic](https://github.com/ruturajjadhav07/Java/tree/main/Java%20Basics)*
 
-*Core Java*
+*[Core Java](https://github.com/ruturajjadhav07/Java/tree/main/Java%20Core)*
 
 *Advanced Java*
