@@ -1,12 +1,14 @@
-//Variables are used to store a specific value
-//There are different types of variables
-//String,int,float,double,boolean and char.
+// Variables are used to store a specific value
+// There are different types of variables
+// String,int,float,double,boolean and char.
 // These are also called data types
 
 
 public class Variables_1 {
 
     public static void main(String[] args) {
+
+        // If we write anything after data type it is called variable.
 
         String name = "Hello";  // String can be letters and numbers if it is printed in double quotes " ".
         int num = 22;           // int is used to declare number.
