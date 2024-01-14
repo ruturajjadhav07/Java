@@ -24,5 +24,5 @@
 *The "Runnable" interface requires implementing the "run" method, where the actual code for the thread's task is placed.*
 *The Runnable interface don't have thread method (Start()) so you need to create a new instance of thread that is (Thread obj = new Thread(parameter))*
 
-*Always remember : An Runnable interface is   **" @FunctionalInterface "**   so we can create instance using lambda*
+*Always remember : An Runnable interface is   **" @FunctionalInterface "**   so we can create instance using lambda. [click me]() to see using lambda expression*
 
