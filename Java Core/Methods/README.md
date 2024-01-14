@@ -31,3 +31,13 @@
 *Method overriding is used to over ride the method which has same name that is inherited from parent class*
 
 *Method Overriding is used for runtime polymorphism.*
+
+
+## Benefits of Method
+*1. Code Reusability*
+
+*2. Modularity*
+
+*3. Parameterization : can pass parameters*
+
+*4. Encapsulation*
