@@ -10,4 +10,5 @@
 
 ## Benifits of Plymorphism
 *1. Code Reusability*
+
 *2. Flexibility*
