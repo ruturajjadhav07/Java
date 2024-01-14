@@ -8,7 +8,7 @@
 
 
 # Types of threads
-## *1) By extending Thread class*
+## *1) [By extending Thread class](https://github.com/ruturajjadhav07/Java/blob/main/Java%20Core/Thread/Thread1.java)*
 *Threads are created by extending the Thread class in Java.*
 *void run() method is used to perform action for a thread.*
 *The run() method is called by start() method.*
