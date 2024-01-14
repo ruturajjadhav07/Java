@@ -1,5 +1,5 @@
 # Threads
-## What is it...?
+## What is Thread...?
 *Doing multiple task and dividing task into sma;l units is called thread.*
 *Threads are lightweight and its smallest part of unit.*
 *The threads are java class used to achieve thread programming.*
@@ -17,4 +17,12 @@
 *The start() method is present in Thread class and calls the run() method to preform the multitasking*
 
 
-## *2) By implementing runnable interface*
+## *2) [By implementing runnable interface](https://github.com/ruturajjadhav07/Java/blob/main/Java%20Core/Thread/Thread2.java)*
+*Multuple inheritance is not supported by java so we implement it by "Runnable" interface.*
+*Thread is a class which implements Runnable interface*
+
+*The "Runnable" interface requires implementing the "run" method, where the actual code for the thread's task is placed.*
+*The Runnable interface don't have thread method (Start()) so you need to create a new instance of thread that is (Thread obj = new Thread(parameter))*
+
+*Always remember : An Runnable interface is   **" @FunctionalInterface "**   so we can create instance using lambda*
+
