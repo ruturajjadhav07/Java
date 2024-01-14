@@ -1,11 +1,13 @@
-
 // Threads.
-
 // By extending Thread class.
+
+
 
 //class T{ 
            // It is normal class 
 //}
+
+
 
 // But when we extend it with thread it becomes threa class.
 
