@@ -24,9 +24,12 @@
 *The "Runnable" interface requires implementing the "run" method, where the actual code for the thread's task is placed.*
 *The Runnable interface don't have thread method (Start()) so you need to create a new instance of thread that is (Thread obj = new Thread(parameter)).*
 
-## Using Lambda expression
+## a) Using Lambda expression
  *Always remember : An Runnable interface is   **" @FunctionalInterface "**   so we can create instance using lambda. [Click me](https://github.com/ruturajjadhav07/Java/blob/main/Java%20Core/Thread/lambda.java) to see using lambda expression*
  
 *lambda expression makes code look easier and cleaner*
 *Taking same example of [Thread2.java](https://github.com/ruturajjadhav07/Java/blob/main/Java%20Core/Thread/Thread2.java) but in lambda expression.*
+
+
+## b) One more concept i.e. Thread Safe : 
 
