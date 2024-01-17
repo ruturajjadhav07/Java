@@ -32,4 +32,5 @@
 
 
 ## b) One more concept i.e. Thread Safe : 
+You can use methods related to thread in it.
 
