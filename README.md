@@ -12,6 +12,9 @@
 ## What is JVM..?
 - *JVM is a virtual machine that executes Java bytecode.*
 - *It provides a runtime environment for Java applications to run independently of the underlying hardware and operating system.*
+- *Java Compiler(javac) is used to convert the java file in byte code.*
+- *The extension for byte class is .class*
+- *When you compile the java file using javac the class file is generated.*
 
 ## What is JRE..?
 - *JRE is a software package that includes the JVM, libraries, and other components necessary for running Java applications.*
