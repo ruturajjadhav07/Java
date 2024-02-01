@@ -1,7 +1,13 @@
 // Two data types
 
 // Primitive Data type
-// int, float, double, String, char, boolean, byte, short
+
+// Integer  -> byte, short, int, long
+// Float -> double, float
+// Character -> char
+// Boolean -> true or false
+
+
 
 // Non Primitive Data type
 // They are called reference type
