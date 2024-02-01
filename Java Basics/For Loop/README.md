@@ -13,12 +13,12 @@
 
 ### Nested For Loop:
 
-This example demonstrates a nested for loop where one loop is inside another.
-The outer loop (i) runs from 0 to 3, and the inner loop (j) runs from 0 to 2.
-It prints combinations of 'i' and 'j', resulting in a matrix-like pattern.
+*A nested for loop in Java is a loop structure where one loop is placed inside another.*
+
+*This creates a pattern of repeated execution, with the inner loop running multiple times for each iteration of the outer loop.* 
 
 ### For Each Loop:
 
-The for-each loop is used to iterate over elements of an array or a collection.
-It simplifies the syntax for iterating through elements.
-Here, it prints each element of the lang array, which contains programming languages.
+*The for-each loop is used to iterate over elements of an array or a collection.*
+
+*It simplifies the syntax for iterating through elements.*
