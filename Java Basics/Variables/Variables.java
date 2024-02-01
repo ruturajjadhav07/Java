@@ -4,7 +4,7 @@
 // These are also called data types
 
 
-public class Variables_1 {
+public class Variables {
 
     public static void main(String[] args) {
 
