@@ -1,7 +1,7 @@
 # In this you will find all basic codes and operation related to java.
 # Just go Step by Step.
 
-*[Comment.](https://github.com/ruturajjadhav07/Java/blob/main/Java%20Basics/Comment.java)*
+*[Comment.](https://github.com/ruturajjadhav07/Java/tree/main/Java%20Basics/Comment)*
 
 *[1 Variables initialization and declaration.](https://github.com/ruturajjadhav07/Java/blob/main/Java%20Basics/Variables_1.java)* 
 
