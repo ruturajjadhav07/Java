@@ -5,7 +5,8 @@
 
 
 ## Types of Arrays : 
-1) Single Dimensional Array :
+1) Single Dimensional Array : *It is linear collection of elements of same data type such as int.The each position of element is identified by using index number.*
 
-  *It is linear collection of elements of same data type such as int.The each position of element is identified by using index number.*
-
+2) Multi dimensional array : 
+*A multidimensional array is an array that contains other arrays.Also called as jagged array.*
+*The most common multidimensional array is a 2D array (two-dimensional array)*
