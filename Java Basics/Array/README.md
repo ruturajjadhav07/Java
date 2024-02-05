@@ -5,6 +5,7 @@
 
 
 ## Types of Arrays : 
-
 1) Single Dimensional Array :
-**
+
+  *It is linear collection of elements of same data type such as int.The each position of element is identified by using index number.*
+
