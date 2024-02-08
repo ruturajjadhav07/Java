@@ -9,3 +9,4 @@
 
 ## Symbol : The lambda function is denoted by (->)
 
+## *Whenever we have one statement and that is return we can remove it no need to write.When you mention after -> it becomes return automatic*
