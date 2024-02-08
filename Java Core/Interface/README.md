@@ -13,6 +13,6 @@
 
 ## *Syntax : interface name extends interface name*
 
-## Remember : *Interface is not class*
+## Remember : *Interface is not class but the implementaion is somehow like class.*
 
 
