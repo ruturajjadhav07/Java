@@ -9,10 +9,13 @@
 
 
 ### *In interface we cannot implement another interface.We extend it.*
-
-
 ## *Syntax : interface name extends interface name*
 
 ## Remember : *Interface is not class but the implementaion is somehow like class.*
 
 
+# What is Functional interface : 
+*Functional interface is interface which has only one method i.e. SAM (Single abstract method interface) or functional interface.*
+*The abstract method of functional interface is called the functional interface*
+*It is denoted by @FunctionalInterface*
+### *We can only use lambda expression with functional interface.*
