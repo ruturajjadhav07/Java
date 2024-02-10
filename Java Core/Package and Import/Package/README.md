@@ -9,10 +9,14 @@
 *Consider a folder path(C:/random-folder/src/com/example/Hello.java).There is Hello.java file.*
 So the package will be.
 
-package com.example;*This is package*
+package com.example;               *(This is package name)*
 
 public class Hello {
+
     public static void sayHello() {
+
         System.out.println("Hello, world!");
+    
     }
+
 }
