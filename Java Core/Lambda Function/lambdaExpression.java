@@ -16,7 +16,7 @@ interface I3 {
     String name(String name);
 }
 
-public class LambdaExpression {
+public class lambdaExpression {
 
     public static void main(String[] args) {
 
