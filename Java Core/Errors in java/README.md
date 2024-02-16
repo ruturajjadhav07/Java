@@ -8,7 +8,7 @@
 *Examples include missing semicolons, mismatched parentheses, or using undefined variables.*
 
 
-## 2) Runtime Error : 
+### 2) Runtime Error : 
 *These are errors that occurs during the execution of the program.They are also referred to as exceptions.*
 *Runtime errors can be further categorized into checked exceptions and unchecked exceptions.*
 
@@ -17,5 +17,5 @@
 - #### *Unchecked Exceptions: They are also known as runtime exceptions, these exceptions are not checked at compile time. They usually occur due to programming errors such as division by zero, accessing an array out of bounds, or invoking a method on a null object. Examples include NullPointerException, ArrayIndexOutOfBoundsException.*
 
 
-## 3) Logical Error : 
+### 3) Logical Error : 
 *These errors occur when the program compiles and runs without any exceptions(error), but it produces incorrect results(Which is not expected). Logical errors are caused by flaws in the program's algorithm or logic.It is hard to find the mistake in logical error it requires proper and systematic understanding and debugging code.*
