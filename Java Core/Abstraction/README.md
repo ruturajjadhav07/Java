@@ -7,6 +7,6 @@
 ## Syntax 
 abstract class AbstractClass {
 
-    public abstract void abstractMethod();
+    public abstract void abstractMethod(); // Abstract method
     
 }
