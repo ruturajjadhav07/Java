@@ -6,7 +6,7 @@ When you add elements to a Stack using the push method, they are added to the to
 
 *Elements stored in a Stack can only be accessed from the top of the stack. This means that the last element added to the stack is the first one to be removed, stick to the LIFO principle.*
 
-## There are many methods related to ArrayList Here are most common that are used
+## There are many methods related to Stack Here are most common that are used
 ### push(E item):
 * Adds the specified element to the top of the stack.
 
