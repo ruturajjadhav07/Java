@@ -3,7 +3,7 @@
 
 *The main difference between is Vector methods are synchronized (thread-safe), while ArrayList methods are not.*
 
-
+## There are many methods related to Vector Here are most common that are used
 ### 1. add(E element):
 * Adds the specified element to the end of the vector.
 
