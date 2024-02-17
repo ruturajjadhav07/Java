@@ -1,5 +1,5 @@
 # Arraylist
-*"ArrayList is a class that implements the List interface in Java. It utilizes a dynamic array to store elements, allowing for the storage of duplicates of various data types.*
+*ArrayList is a class that implements the List interface in Java. It utilizes a dynamic array to store elements, allowing for the storage of duplicates of various data types.*
 
 *Elements stored in an ArrayList can be randomly accessed using their index. The size of the ArrayList automatically increases as the collection grows, unlike arrays of primitive data types, where the size needs to be declared upfront."*
 
