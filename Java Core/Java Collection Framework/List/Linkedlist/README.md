@@ -5,7 +5,7 @@
 
 *Unlike arrays, LinkedList does not require a contiguous block of memory, and the size of the LinkedList can vary dynamically as elements are added or removed.*
 
-## There are many methods related to ArrayList Here are most common that are used
+## There are many methods related to Linkedlist Here are most common that are used
 
 ### add(E element):
 * Adds the specified element to the end of the list.
