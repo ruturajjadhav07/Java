@@ -1,5 +1,5 @@
 # Linkedlist
-*"LinkedList is a class that implements the List interface in Java. It utilizes a doubly linked list structure to store elements. Each element is stored as a separate object (node) with references to both the previous and next nodes in the list.*
+*LinkedList is a class that implements the List interface in Java. It utilizes a doubly linked list structure to store elements. Each element is stored as a separate object (node) with references to both the previous and next nodes in the list.*
 
 *LinkedList allows for the storage of duplicates of various data types. Elements stored in a LinkedList can be accessed sequentially or iteratively, as well as efficiently added or removed from the beginning, end, or middle of the list.*
 
