@@ -1,6 +1,6 @@
 # Threads
 ## What is Thread...?
-*Doing multiple task and dividing task into sma;l units is called thread.*
+*Doing multiple task and dividing task into small units is called thread.*
 *Threads are lightweight and its smallest part of unit.*
 *The threads are java class used to achieve thread programming.*
 *It is same like classs that provides constructor method to create operations on threads.*
